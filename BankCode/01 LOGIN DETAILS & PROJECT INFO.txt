@@ -1,6 +1,0 @@
-DEVELOPED BY US :-)
-
-**Staff Login Details**
-
-ID:	  210001
-Password: pass
